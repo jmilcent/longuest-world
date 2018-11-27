@@ -17,7 +17,7 @@ class Game:
 
     def is_valid(self, opt_str):
         """
-        check if input data is valid
+        check  if input data is valid
         """
         if not opt_str:
             return False
